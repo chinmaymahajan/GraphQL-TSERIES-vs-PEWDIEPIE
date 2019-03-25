@@ -1,0 +1,16 @@
+{
+  "name": "graphql-youtube",
+  "version": "1.0.0",
+  "description": "Simple example of wrapping REST API with GraphQL. Youtube REST api to get subscription count is wrapper in the resolver.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": ["graphQL", "graphql-restapi", "GraphQL-TSERIES-vs-PEWDIEPIE", "TSERIES-vs-PEWDIEPIE"],
+  "author": "Chinmay Mahajan",
+  "license": "ISC",
+  "dependencies": {
+    "graphql-yoga": "^1.3.3",
+    "node-fetch": "^2.0.0"
+  }
+}

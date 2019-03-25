@@ -1,0 +1,4 @@
+type Query {
+	pewdiepie: String!,
+	tseries: String!
+}
