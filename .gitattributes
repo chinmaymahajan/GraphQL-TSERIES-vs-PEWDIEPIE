@@ -1,7 +1,0 @@
-* text=auto
-
-
-*.gitattributes text
-.gitignore text
-*.md text
-*.css linguist-language=Graphql
